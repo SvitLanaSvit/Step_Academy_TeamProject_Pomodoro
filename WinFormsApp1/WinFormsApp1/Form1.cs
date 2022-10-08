@@ -128,6 +128,11 @@ namespace WinFormsApp1
             }
         }
 
+        private void btnReport_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("");
+        }
+
         private void btnStart_Click(object sender, EventArgs e)
         {
             player?.Stop();

@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Svitlana\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Svitlana\\.nuget\\packages"
+      "C:\\Users\\artuo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\artuo\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
